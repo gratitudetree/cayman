@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to instruction](https://gratitudetree.github.io/instructions/).
+[Link to instruction](https://gratitudetree.github.io/cayman/instructions/).
 
 <div class="posts">
   {% for post in site.posts %}
